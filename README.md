@@ -1,1 +1,5 @@
 # M2_vaccinationchip
+### In the era of emerging technology, it is necessary to find better solution for every activity. E-Vaccine chip can be done in a very efficient manner using the RFID technology. 
+### In the recent magician of world health organisation there are selected some of the vaccine are best and very productive so in case we travel for other country we can use this vaccination card in the airport and we can be checked with vaccination certificate and passport and photo is shown monitor.
+### When the person come and scan the card the each card has a different ID that number will be scanned and the person details will be viewed on the screen and we can check the details. And in further we can use this card as a medical card and the medical data are store and updated frequently
+### Wi-Fi is slower when compared to IOT and we can use in every place where we need. Reliability is better in IOT than Wi-Fi. Since IOT is the most used one and easy way of approach.  We are using in this model RFID module are used to transmit the data to the receiver module.
